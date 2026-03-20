@@ -39,9 +39,9 @@ Junior QA инженер с навыками manual и automation тестиро
 Ручное тестирование веб/мобильного приложения.  
 - UI тестирование  
 - Поиск багов  
-- Составление чек-листов и баг-репортов  
+- Составление чек-листов и баг-репортов     
+👉 Ссылка: https://skypro-vlad.yonote.ru/collection/finalnyj-proekt-po-ruchnomu-testirovaniyu-buchko-vr-qa-1112-98HI0JDwfJ
 
-👉 Ссылка: (https://skypro-vlad.yonote.ru/collection/finalnyj-proekt-po-ruchnomu-testirovaniyu-buchko-vr-qa-1112-98HI0JDwfJ)
 ---
 
 ### 🔹 API тестирование (Postman)
